@@ -11,5 +11,5 @@ const soma = (a, b) => {
 console.log(soma(2, 3))
 
 //retorno implicito
-const subtracao = (a, b) => a- b
+const subtracao = (a, b) => a- b // este metodo só da para uma função de uma linha
 console.log(subtracao(2, 1))
