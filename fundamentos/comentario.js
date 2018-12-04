@@ -1,7 +1,7 @@
 // comentários de uma linha
 
 /* comentario
-    de 
-    várias
-    linhas
+    *de 
+    *várias
+    *linhas
 */

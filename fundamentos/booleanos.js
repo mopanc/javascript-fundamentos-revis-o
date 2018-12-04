@@ -25,7 +25,7 @@ console.log(!!undefined)
 console.log(!!(isAtivo = false))
 
 console.log('pra finalizar...')
-console.log(!!('' || null || 0 || ' '))//o ultimo string tem um espaço logo prevalece a todos os fasos
+console.log(!!('' || null || 0 || ' '))//o ultimo string tem um espaço entre aspas simples, logo prevalece a todos os fasos
 
 let nome = '' //a variavel nome esta vazia
 console.log(nome || 'Desconhecido') // mandamos imprimir, se no nome tiver algum nome imprime nome, se não imprime desconhecido

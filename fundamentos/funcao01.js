@@ -1,5 +1,12 @@
-// uma função é como uma receita de um bolo, recebe uma serie de ingredientes que pode ser usada por varias pessoas e no final vai sair sempre o mesmo bolo
-//uma função é um bloco de codigo, com nome para que se possa chamar, ela recebe parametros de entrada e no final pode ser usada em varios locais
+/* uma função é como uma receita de um bolo,
+ recebe uma serie de ingredientes que pode ser 
+ usada por varias pessoas e no final vai sair 
+ sempre o mesmo bolo
+ */
+/*uma função é um bloco de codigo, com nome para 
+que se possa chamar, ela recebe parametros de 
+entrada e no final pode ser usada em varios locais
+*/
 
 //função sem retorno
 function imprimirsoma(a, b) {
