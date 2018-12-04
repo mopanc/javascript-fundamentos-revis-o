@@ -1,0 +1,34 @@
+01 - visão geral
+02 - configuração do ambiente
+	ferramentas
+		instalação do "Node"
+		instalar o visual code e dentro do visual studio code, intalar o plugin "runner", este plugin permite ler o codigo enquanto se escreve
+		console.log('teste') --> codigo no ficheiro para realizar um teste,salvar e control/Alt/N, na parte de baixo ele executa o teste.
+		para adicionar comndos como o code, clicar em command/shift/p dentro do vsc abre uma caixa de pesquisa e digitar code e instalar esse comando na path
+03 - fundamentos
+	O javascrypt é organizado em sentenças de codigo que pode terminar com ; ou não, e blocos de codigo.
+	ferramentas online "repl" editor de codigo na web, e o jsfiddle muito fixe, tem css html javascrypt tudo numa pag só.brutal no console alt comand i, abre o console direto no browse jquery
+04 - estruturas de controle
+05 - funções
+06 - objetos & OO
+07 - array
+08 - node
+09 - ES Next... 6,7,8
+10 - fundamentos da Web
+11 - HTML
+12 - CSS
+13 - DOM
+14 - Ajax
+15 - Gulp
+16 - webpack
+17 - jQuery
+18 - Bootstrap
+19 - React
+20 - Value
+21 - Banco de dados relacionais
+22 - Banco de dados não relacionais
+23 - Express
+24 - integrando banco de dados com o backend
+25 - projetos
+26 - Outros tópicos
+27 - conclusão
