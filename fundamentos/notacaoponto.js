@@ -19,3 +19,4 @@ console.log(obj3.nome)
 obj3.exec()
 
 //com a notação ponto podemos acessar os membros de uma função ou de um objeto
+//no commit
