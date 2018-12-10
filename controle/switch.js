@@ -3,7 +3,7 @@ const imprimirResultado = function (nota) {
         case 10:
         case 9:
             console.log('Quadro de Honra')
-            break
+            break //o break é obrigatorio em switch se não ele vai devolver todas, apartir de onde entra ate baixo
         case 8: case 7:
             console.log('Aprovado')
             break
