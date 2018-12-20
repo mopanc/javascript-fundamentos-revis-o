@@ -14,3 +14,10 @@ objeto = {
 }
 
 objeto.processamento() // em oo o foco é o obj
+
+/*Prencipios importantes
+ 1º abstração
+ 2º encapsulamento
+ 3º herança (prototype)
+ 4º polimorfismo
+*/
