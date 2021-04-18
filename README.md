@@ -1,2 +1,7 @@
 # exercicios-js
-fundamentos de javascrypt co exercicios e comentários, em visual basic
+
+Fundamentos de acompanhamento de estudo da linguagem JavaScript.
+
+Apenas algum material de apoio de todos os fundamentos da linuagem!
+
+
